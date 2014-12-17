@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCrmFront\src\main\java\com\huateng
+2
+6
+6:cmupay|2|0|0|0|48d7d9b508ba11e382bc001f296e5d6e|0
+6:quartz|2|0|0|0|4637d8ad08ba11e382bc001f296e5d6e|0
+3:crm|2|0|0|0|59e3e467309e11e3816b001f296e5d6e|0
+4:core|2|0|0|0|4147d6cd08ba11e382bc001f296e5d6e|0
+3:log|2|0|0|0|40c7d69d08ba11e382bc001f296e5d6e|0
+4:upay|2|0|0|0|3f87d62508ba11e382bc001f296e5d6e|0

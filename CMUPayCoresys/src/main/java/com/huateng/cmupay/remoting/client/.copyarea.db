@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\cmupay\remoting\client
+2
+3
+10:CrmRemoting.java|1|142c16dca55|92|70d52fdb|80f0cc8f08cb11e38250001f296e5d6e|0
+11:GateRemoting.java|1|142c16dca5d|94|d2c3305a|8100cca708cb11e38250001f296e5d6e|0
+11:BankRemoting.java|1|142c16dca4c|93|a3d53035|80d0cc7708cb11e38250001f296e5d6e|0

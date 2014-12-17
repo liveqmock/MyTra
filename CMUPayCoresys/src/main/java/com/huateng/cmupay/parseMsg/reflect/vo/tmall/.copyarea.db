@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\cmupay\parseMsg\reflect\vo\tmall
+2
+4
+16:TmallConsumeResVo.java|1|142c16dc86e|a7f|ddace139|da641b2cb3094179aa7a12713c0503c9|0
+16:TmallConsumeReqVo.java|1|142c16dc85f|1a83|819d7a15|21d29601155c4d2e8e07b3eb6d068984|0
+19:TmallTransQueryReqVo.java|1|142c16dc87c|9cc|5faeaebb|c22d89dae4ad477baff673beaeba14fc|0
+19:TmallTransQueryResVo.java|1|142c16dc878|c2d|5db89029|095ca29e99244cd9b2bc5a8e08cd3f17|0

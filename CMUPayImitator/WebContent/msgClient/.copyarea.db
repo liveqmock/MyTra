@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayImitator\WebContent\msgClient
+2
+5
+15:httpPostMMallMsg.html|1|142c16ec8c3|b74|70ad8da4|23a2e2a68689439e8cc5d71fa0bae825|0
+2:js|2|0|0|0|db1ffd711881449ba4c9b3a800139c80|0
+15:httpPostTMallMsg.html|1|142c16ec8c8|b74|129b8db4|6264050cff134cc4b2027b88f1a91f99|0
+10:httpPostMsg.html|1|142c16ec8bc|b6f|c29f8bd1|1cd3901930a211e38f80001f296e5d6e|0
+16:sendMsg_Multipart.html|1|142c16ec8c1|c0b|a6a7b83f|1cf3903130a211e38f80001f296e5d6e|0

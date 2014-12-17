@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\cmupay\controller\cache
+2
+e
+15:OrgMapTransCache.java|1|142c1e01b1a|16ec|a5a9fc50|eb70cc1b80b249bda9ec2b7165a41929|0
+16:CrmErrorCodeCache.java|1|142c16da132|10a0|8fd40393|6920b03f08cb11e38250001f296e5d6e|0
+11:OrgCodeCache.java|1|142c16da40a|11f3|5d4405ad|0eede91d10b845a88141315b3a58307d|0
+17:NoSegmentAreaCache.java|1|142c16da406|91c|f580d16|6910b02708cb11e38250001f296e5d6e|0
+10:ColumnCache.java|1|142c16da130|7ba|4eb98faa|6960b09f08cb11e38250001f296e5d6e|0
+13:TransCodeCache.java|1|142c16da424|e29|51817d3a|03637f8130a211e38f80001f296e5d6e|0
+12:DictCodeCache.java|1|142c16da134|1510|f62daef8|03437f6930a211e38f80001f296e5d6e|0
+f:RouteCache.java|1|142c16da41a|ae3|14ba8eff|68f0b00f08cb11e38250001f296e5d6e|0
+17:BankErrorCodeCache.java|1|142c16da12d|13f5|74311eaf|68c0afc708cb11e38250001f296e5d6e|0
+13:MessageHandler.java|1|142c16da3fd|1836|f43caf96|6980b0cf08cb11e38250001f296e5d6e|0
+12:ProvAreaCache.java|1|142c16da415|1973|3a542d4e|49e32aeacfe0434884b8d5b51ef79659|0
+10:SysMapCache.java|1|142c16da420|1335|5d464b90|6970b0b708cb11e38250001f296e5d6e|0
+11:HostMsgCache.java|1|142c16da3f4|b74|bcca6906|356e00f433fa46e4be0019291eae0ee3|0
+16:OrgTransCodeCache.java|1|142c16da40f|9cc|4f291194|fcc2343dcd644ed289d4b43211d9d58e|0

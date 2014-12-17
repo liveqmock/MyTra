@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCrmFront\src\main\java\com\huateng\core\base
+2
+5
+e:XMLParser.java|1|142c16e637b|7a6|d75ca5b7|303c0ea464ef40879ecb31452a605208|0
+14:BaseServiceImpl.java|1|142c16e6378|1f48|df4485d6|17338ac130a211e38f80001f296e5d6e|0
+18:BaseMessageListener.java|1|142c16e6373|801|6e04c963|83b0d06708cb11e38250001f296e5d6e|0
+f:BaseAction.java|1|142c16e6371|8da|5446fcdd|83e0d09708cb11e38250001f296e5d6e|0
+10:BaseService.java|1|142c16e6376|358|fcc82a45|17538ad930a211e38f80001f296e5d6e|0

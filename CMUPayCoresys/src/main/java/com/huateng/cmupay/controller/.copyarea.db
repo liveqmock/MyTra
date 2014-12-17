@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\cmupay\controller
+2
+8
+2:h2|2|0|0|0|6808c07d554c493993785322f5a7cf28|0
+6:mapper|2|0|0|0|34ef15d3ed694201856f3748c8a91445|0
+7:service|2|0|0|0|2707d03d08ba11e382bc001f296e5d6e|0
+4:task|2|0|0|0|5503e337309e11e3816b001f296e5d6e|0
+6:common|2|0|0|0|2917d0b508ba11e382bc001f296e5d6e|0
+3:his|2|0|0|0|095f20b5a5c849339897302b6411d411|0
+5:cache|2|0|0|0|5553e347309e11e3816b001f296e5d6e|0
+b:intercepter|2|0|0|0|2b57d0e508ba11e382bc001f296e5d6e|0

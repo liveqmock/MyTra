@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\toolbox\annotation
+2
+2
+16:BeanCopyAllowNull.java|1|142c16dcc9d|1ca|d715a3e5|7c80c80f08cb11e38250001f296e5d6e|0
+13:BeanCopyIgnore.java|1|142c16dcca1|1c2|283c9c93|7c90c82708cb11e38250001f296e5d6e|0

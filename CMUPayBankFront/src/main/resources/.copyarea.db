@@ -1,0 +1,17 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayBankFront\src\main\resources
+2
+d
+1d:applicationContext-quartz.xml|1|142c16d601d|8b1|fae6409e|fb5c790b24b0431ca2686c889c3a6ec7|0
+f:bank-struts.xml|1|142c16d6024|167|ddd17152|d9f3c1a92a60417c8e5ebcf5e2a17983|0
+b:logback.xml|1|142c16d6032|1079|19a746e1|0ed92ad7a6184097bd81ef3bcba6a0cc|0
+16:applicationContext.xml|1|142c16d6022|8ce|786e0f34|6b7dc223f34149a6a2f9d581a46e0dac|0
+12:jms_ccb.properties|1|142c16d602e|6e7|9e825721|6013ce9c184e4d0899a814f5fd3117a7|0
+11:remote-client.xml|1|142c16d6036|647|5c3d436b|8e323cf0d3fa4211b72795878ef05b0c|0
+13:jms_spdb.properties|1|142c16d6030|6e7|a1905722|01437d4130a211e38f80001f296e5d6e|0
+1f:applicationContext-remoting.xml|1|142c16d6020|3b5|d0593d23|878b020fd205406e9b761b82a52b60cf|0
+e:jms.properties|1|142c16d6027|a88|84066d49|daed47b26b6546e797293abe1ec3011a|0
+6:config|2|0|0|0|2167ce8d08ba11e382bc001f296e5d6e|0
+12:regCode.properties|1|142c16d6034|563|dbaf9a19|09a4b2b0301748fa8836958bf5e4a920|0
+1f:applicationContext-bank-jms.xml|1|142c16d601b|1f06|12fa2a93|6f458716b75342558f060919f797011d|0
+a:struts.xml|1|142c16d6038|1e4|bc23a34c|619c5caa67614b5c9c3b4f126aaa94f9|0

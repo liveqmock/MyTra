@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\cmupay\controller\h2\mapper
+2
+7
+12:IBaseh2Mapper.java|1|142c16dad78|add|dfe782f8|b37363df418b447d9472bf1d39396e31|0
+1d:UnicomMsisdnLdCdh2Mapper.java|1|142c16dad7c|1eb|6805ab48|c2f043de8a7849378270cc6d2b63d533|0
+24:UpayCsysLdAreaCdProvExth2Mapper.java|1|142c16dad73|114|bdd2635a|f51df565823f42dfb57cc5600bf76162|0
+1d:UpayCsysImsiLdCdh2Mapper.java|1|142c16dad69|1eb|60b8ab42|48c5bc51e8b146218f85fec090689dae|0
+1c:UpayCsysOrgCodeh2Mapper.java|1|142c16dad67|ff|a49a5a6b|6c4d3e508fe2470e835f7ff3e00dfaa3|0
+26:UpayCsysOrgMapTransCodeLdh2Mapper.java|1|142c16dad7a|11b|9c6364e4|bffd4e112163414ebde281eda869d946|0
+24:UpayCsysOrgMapTransCodeh2Mapper.java|1|142c16dad76|119|d00c6434|28ec3a1c84bb4fdb8c1cc119790ca94c|0

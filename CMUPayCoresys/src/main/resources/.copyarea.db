@@ -1,0 +1,19 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\resources
+2
+f
+b:message.xml|1|142c16dcee7|8fba|e2947f36|16c38a4930a211e38f80001f296e5d6e|0
+19:applicationContext_h2.xml|1|142c16dd0ec|efe|e8d33d44|f620066ac4814552889619d4d924c9a7|0
+3:com|2|0|0|0|39c7d4ed08ba11e382bc001f296e5d6e|0
+b:logback.xml|1|142c16dced9|2aed|f55c681d|a51aac5da3624719b8a15f12d2dbe4f3|0
+20:applicationContext-memcached.xml|1|142c16dcec1|51d|7d17d79|7dc0c97708cb11e38250001f296e5d6e|0
+16:applicationContext.xml|1|142c16dcece|34b|f5ec0e76|e8d4a1a435eb4af5915862b455c7c63c|0
+1d:applicationContext-client.xml|1|142c16dce80|112b|d82ebcdc|8a03f5cf97cb484f9ac8afb9240f47fc|0
+13:generatorConfig.xml|1|142c16dced6|1912|1faf8727|2fbceef03efd4b0ba020cba06cc0c7e7|0
+1f:applicationContext-remoting.xml|1|142c16dceca|23d|ce63c11d|7e00c9d708cb11e38250001f296e5d6e|0
+1c:applicationContext-redis.xml|1|142c16dd0e5|1954|e0f8a582|d0f40c5130a211e38f80001f296e5d6e|0
+16:mchange-log.properties|1|142c16dcee2|158|a6077461|5f51d33f08cc11e38250001f296e5d6e|0
+b:mybatis.xml|1|142c16dcee9|871|8e4966b8|2d5592ea05814a24b3175165f46e8676|0
+1a:applicationContext-jms.xml|1|142c16dce85|527e|14b63374|bd39a1be98c64c629e674c6575b37c43|0
+11:server.properties|1|142c16dceed|43b0|6b13408e|1c79ddaf191a424580b2fcea896a228a|0
+b:ehcache.xml|1|142c16dced2|954|6a677aa4|7d90c92f08cb11e38250001f296e5d6e|0

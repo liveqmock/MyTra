@@ -1,0 +1,16 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCrmFront\src\main\resources
+2
+c
+e:rmi-client.xml|1|142c16e71ba|265|6e4fd4c7|b6725f482d364b0291f64428416f7fd9|0
+1d:applicationContext-quartz.xml|1|142c16e719c|8b1|fae6409e|2e7d6ae9f412477faeebf99197d368c4|0
+b:logback.xml|1|142c16e71b1|1078|98b9460a|783b829a362743009e5356a1ef5a1478|0
+e:jms.properties|1|142c16e71a8|f92|dd1af42c|e8c93902aac24d6e9e8b5d0851ccfcce|0
+e:crm-struts.xml|1|142c16e71a5|163|ac96fea|d2bdb92b19254b6ca48a70b8b1e825fd|0
+16:applicationContext.xml|1|142c16e71a2|a50|bf99925c|bf1da8e803c44afd99463c088dabe1e4|0
+1e:applicationContext-crm-jms.xml|1|142c16e719a|225c|bbe8f9b3|3a3f092c3e3b44489ba93eead16cb68d|0
+6:config|2|0|0|0|4c07da7508ba11e382bc001f296e5d6e|0
+12:regCode.properties|1|142c16e71b3|563|dbaf9a19|72bd9a48a81b4f068ea83915529fc368|0
+11:remote-client.xml|1|142c16e71b6|4fa|6f44bb30|ef4ffd772d6347d39570605365e21c3c|0
+12:remote-service.xml|1|142c16e71b8|99f|8a2348e5|0e02bef7e641423d87bf9c4577da4518|0
+a:struts.xml|1|142c16e71bb|1e6|da5da2fb|7be3758e76014fd48947028170ebadbd|0

@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayBankFront\src\main\java\com\huateng\bank\bean
+2
+6
+4:body|2|0|0|0|c673ffa7309e11e3816b001f296e5d6e|0
+17:BankRequestMessage.java|1|142c16d520d|127|b6575fad|c5ba0a9e2c764ad2811d484a81e43ffb|0
+8:signBody|2|0|0|0|c6b3ffbf309e11e3816b001f296e5d6e|0
+9:Gpay.java|1|142c16d520f|2a7|7f6d7d4|1414d6ecfa97446e864a85f8a99e6eac|0
+d:userCheckbody|2|0|0|0|c703ffd7309e11e3816b001f296e5d6e|0
+4:head|2|0|0|0|2057ce2d08ba11e382bc001f296e5d6e|0

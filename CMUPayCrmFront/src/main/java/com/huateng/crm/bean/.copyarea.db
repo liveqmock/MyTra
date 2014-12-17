@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCrmFront\src\main\java\com\huateng\crm\bean
+2
+5
+7:message|2|0|0|0|4857d98508ba11e382bc001f296e5d6e|0
+e:RemoteMsg.java|1|142c16e682d|64d|b448e4ab|8590d2ef08cb11e38250001f296e5d6e|0
+16:CrmRequestMessage.java|1|142c16e6822|16a|a3f87564|8560d2bf08cb11e38250001f296e5d6e|0
+17:CrmResponseMessage.java|1|142c16e682a|9a|627f34a5|8550d2a708cb11e38250001f296e5d6e|0
+f:CrmMessage.java|1|142c16e681e|1ec|408a9c19|8580d2d708cb11e38250001f296e5d6e|0

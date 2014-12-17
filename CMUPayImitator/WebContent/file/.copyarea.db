@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayImitator\WebContent\file
+2
+5
+8:template|2|0|0|0|6677e2cd08ba11e382bc001f296e5d6e|0
+4:send|2|0|0|0|8be9d2ef89e149a080fb22919b7fc7aa|0
+a:readme.txt|1|142c16ebdde|a8|72fc6375|9e10eb9708cb11e38250001f296e5d6e|0
+7:receive|2|0|0|0|45d318184c0b4f97a38c1061843e8f55|0
+6:backup|2|0|0|0|c9f89b60eac549f8984d57f66f144b19|0

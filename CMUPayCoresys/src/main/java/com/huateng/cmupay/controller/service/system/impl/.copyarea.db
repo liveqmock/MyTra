@@ -1,0 +1,24 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\cmupay\controller\service\system\impl
+2
+14
+20:UpayCsysDictInfoServiceImpl.java|1|142c16dab52|3df|60464aa3|6620ac1f08cb11e38250001f296e5d6e|0
+21:UpayCsysBatCutCtlServiceImpl.java|1|142c16da7ee|464|9e2484c2|65c0aba708cb11e38250001f296e5d6e|0
+21:UpayCsysTxnLogHisServiceImpl.java|1|142df695e49|651|d3891bce|fb364d93da0c431d8b2fc7f4c6095317|0
+20:UpayCsysBindInfoServiceImpl.java|1|142c16dab39|19af|77edc586|7f9ee62d26584c15b5a040e782dca188|0
+23:UpayCsysTmallTxnLogServiceImpl.java|1|142c16dab81|821|14c9d86a|68f3d1bc52164e03b5aa4c6727de33ed|0
+20:UpayCsysDictCodeServiceImpl.java|1|142c16dab45|4da|9e77a5cb|02a37ec130a211e38f80001f296e5d6e|0
+21:UpayCsysTransCodeServiceImpl.java|1|142c16dab72|4dc|6212ac8b|6630ac3708cb11e38250001f296e5d6e|0
+1f:UpayCsysOrgCodeServiceImpl.java|1|142c16dab5d|4f6|5be0ac5f|6600abef08cb11e38250001f296e5d6e|0
+27:UpayCsysOrgMapTransCodeServiceImpl.java|1|142c16dab7d|3e8|ce4e5f23|1e4447a930a311e38f80001f296e5d6e|0
+1f:UpayCsysBillPayServiceImpl.java|1|142df66a5ec|eec|e5967076|4f9203c2384f4a65bc013930453a5e6c|0
+21:UpayCsysTxnLogTmpServiceImpl.java|1|142c16dab7a|c73|7a832fe1|02937ea930a211e38f80001f296e5d6e|0
+1e:UpayCsysTxnLogServiceImpl.java|1|142d50fab0e|1531|9d225e81|925687c754d04f669b71b7282a2a405d|0
+20:UpayCsysImsiLdCdServiceImpl.java|1|142c16dab56|83d|d59dcd08|02737e9130a211e38f80001f296e5d6e|0
+21:UpayCsysAllTxnLogServiceImpl.java|1|142c16da7ec|b6b|510726f8|6690acc708cb11e38250001f296e5d6e|0
+22:UpayCsysSeqMapInfoServiceImpl.java|1|142d50faaff|564|7c8ed14e|5813f7c03f3546a7a445ead809917ec8|0
+20:UpayCsysPayLimitServiceImpl.java|1|142c16dab67|27e8|e9b7e936|02637e7930a211e38f80001f296e5d6e|0
+22:UpayCsysBillPayHisServiceImpl.java|1|142df64a4ef|a74|2fc6a85c|af75d435c3304b858461664a4d79ee22|0
+24:UpayCsysOrgTransCodeServiceImpl.java|1|142c16dab63|54d|3d8dd671|6650ac6708cb11e38250001f296e5d6e|0
+24:UpayCsysTmallBillPayServiceImpl.java|1|142c16dab7f|a66|7799a4d2|956fbee2e1174ae7be745ad69357de0a|0
+21:UpayCsysRouteInfoServiceImpl.java|1|142c16dab6b|524|3297c488|65d0abbf08cb11e38250001f296e5d6e|0

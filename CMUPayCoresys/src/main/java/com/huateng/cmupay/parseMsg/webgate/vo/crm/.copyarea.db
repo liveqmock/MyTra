@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\cmupay\parseMsg\webgate\vo\crm
+2
+9
+15:CoreResultPayRes.java|1|142c16dc890|1127|27c0029b|4c24de2c179c4d52b9da97a5d45d59ea|0
+15:CoreResultPayReq.java|1|142c16dc88c|5f8|368a5520|7b00c62f08cb11e38250001f296e5d6e|0
+16:CoreResultSignReq.java|1|142c16dc89d|89f|d2235500|7b30c65f08cb11e38250001f296e5d6e|0
+16:CmuShopPayRequest.java|1|142c16dc8ba|2368|eeb300ef|999e837ed49e4962b397e79a7caa9e8b|0
+12:CoreResultRsp.java|1|142c16dc895|40d|78b74fda|7b70c6bf08cb11e38250001f296e5d6e|0
+16:CoreResultSignRes.java|1|142c16dc8a3|21bf|5c6263bb|8a958d3dd042439491d963018b9cc6f0|0
+1b:CorePayResultNoticeReq.java|1|142c16dc889|a23|5ceb2f06|b8887c6f1f9840c197488a37b83365cf|0
+13:CmuSignRequest.java|1|142c16dc8b3|11ae|ae330918|4224674130a311e38f80001f296e5d6e|0
+12:CmuPayRequest.java|1|142c16dc8ab|1141|b0f6e918|4214672930a311e38f80001f296e5d6e|0

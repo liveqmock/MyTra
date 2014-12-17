@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCrmFront\src\main\java\com\huateng\core\adaper\rmi
+2
+4
+4:impl|2|0|0|0|4297d74508ba11e382bc001f296e5d6e|0
+21:CustomHessianServiceExporter.java|1|142c16e635c|6d2|59b14d11|8290cecf08cb11e38250001f296e5d6e|0
+e:RemoteMsg.java|1|142c16e6363|654|c604e75f|82a0cee708cb11e38250001f296e5d6e|0
+11:NotifyHandle.java|1|142c16e6361|68|77372292|8280ceb708cb11e38250001f296e5d6e|0

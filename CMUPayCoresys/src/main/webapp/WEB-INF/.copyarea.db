@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\webapp\WEB-INF
+2
+5
+3:lib|2|0|0|0|8c86c99eb8614859b7b30af7aa764c0a|0
+f:tongweb-web.xml|1|142c16dd94e|107|eee95188|7380bc3f08cb11e38250001f296e5d6e|0
+16:Release_Notes_upay.txt|1|142c16dd953|2c2|a65502a6|b623fa8130a211e38f80001f296e5d6e|0
+7:web.xml|1|142c16dd951|51a|c9cfafea|7370bc2708cb11e38250001f296e5d6e|0
+14:remoting-servlet.xml|1|142dfc2c52e|3a8b|aaf634e5|89544c5598f248f8926148888f149b3e|0

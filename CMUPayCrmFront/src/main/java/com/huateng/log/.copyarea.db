@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCrmFront\src\main\java\com\huateng\log
+2
+4
+c:XmlUtil.java|1|142c16e716a|ea7|f3affe3a|81e0cddf08cb11e38250001f296e5d6e|0
+12:LogHandleImpl.java|1|142c16e7167|63f|a2dc178e|81c0cdaf08cb11e38250001f296e5d6e|0
+e:LogHandle.java|1|142c16e715f|30a|ac0a1c6b|81d0cdc708cb11e38250001f296e5d6e|0
+2:vo|2|0|0|0|4107d6b508ba11e382bc001f296e5d6e|0

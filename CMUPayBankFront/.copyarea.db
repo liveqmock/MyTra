@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayBankFront
+2
+7
+a:.classpath|1|142c16d4e90|1efc|1f893630|545925cad3024b0b909b99e5cdf636a0|0
+d:build_war.xml|1|142c16d4ea8|c89|11c8e743|afc2185708cc11e38250001f296e5d6e|0
+8:.project|1|142c16d4e9a|4c8|39e79198|afd2186f08cc11e38250001f296e5d6e|0
+c:my_build.xml|1|142c16d4eab|b2c|8e48042|deca87e879eb4722a4bcbf6770819d85|0
+9:build.xml|1|142c16d4e9e|9cc|ad7216f0|59109f1708cb11e38250001f296e5d6e|0
+3:src|2|0|0|0|a44685ab0e1d41a283d1fbc0003ed51e|0
+9:.settings|2|0|0|0|ef072e6cf97b40178c53a5e00f718652|0

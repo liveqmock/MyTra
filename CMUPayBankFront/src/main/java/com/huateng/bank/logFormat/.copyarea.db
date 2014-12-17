@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayBankFront\src\main\java\com\huateng\bank\logFormat
+2
+3
+10:ExcConstant.java|1|142c16d5561|96a|9fb2ee31|fa89f4c389e84dce9e3762d1bd350ea3|0
+d:DateUtil.java|1|142c16d555e|27d5|ddc75aba|0887c79a5abf4288af39efd6ddeb44ad|0
+12:MessageLogger.java|1|142c16d5566|2ae3|969bd9a4|a3f28818dde14212ad560070c655a77e|0

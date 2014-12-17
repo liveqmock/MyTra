@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCrmFront\src\main\java\com\huateng\crm\common\parse
+2
+3
+11:CrmXMLParser.java|1|142c16e6aef|3208|c4afa911|af395b02fc984d4b9c592d7e3bd880af|0
+15:XStreamXMLParser.java|1|142c16e6af3|86b|9138e622|18638be130a211e38f80001f296e5d6e|0
+13:Dom4jXMLParser.java|1|142c16e6af0|250d|26689ecf|9653903c9c494deeae72c17fc51e83b2|0

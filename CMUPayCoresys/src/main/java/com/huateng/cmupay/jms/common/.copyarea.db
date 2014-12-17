@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\cmupay\jms\common
+2
+6
+1a:AbsSendBankJmsMessage.java|1|142c16dafe8|1a41|919408c7|09f3855130a211e38f80001f296e5d6e|0
+16:AbsSendJmsMessage.java|1|142c16daff2|1afe|111147a5|d843c422378544f9a4392ecb5eb0f5fa|0
+14:ISendJmsMessage.java|1|142c16daff7|10b|d6275566|7200ba4708cb11e38250001f296e5d6e|0
+19:AbsSendCrmJmsMessage.java|1|142c16dafeb|1a38|fba404b2|0a33858130a211e38f80001f296e5d6e|0
+1c:AbsSendJmsNoticeMessage.java|1|142c16daff5|1655|1ebba4d5|0a23856930a211e38f80001f296e5d6e|0
+11:JmsMsgHeader.java|1|142c16daffc|72c|338d5710|71f0ba2f08cb11e38250001f296e5d6e|0

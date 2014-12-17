@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\cmupay\listener
+2
+8
+25:MobileMarketQueryMessageListener.java|1|142c16db2f4|2bcb|392a44b0|605ec0b178234290b9b0015cb0f8d7f1|0
+1b:WebGateMessageListener.java|1|142c16db2db|2881|d6b1dc2c|bea5e81d532b4838be1650a08a564446|0
+17:CrmMessageListener.java|1|142c16db142|3646|ff2f776a|b5b09190d64c43acad638e88d817de0e|0
+17:AbsMessageListener.java|1|142c16db139|2198|5108642a|53a5f03a4de743caaa041df069812e8d|0
+19:TmallMessageListener.java|1|142df3a8f73|25fa|6ec76050|a233f3b34f9145beb861fbbb4d000d02|0
+1e:TmallQueryMessageListener.java|1|142c16db2ee|2647|bfba79af|88cf70d57ace412ead406fbfa7ad2f27|0
+20:MobileMarketMessageListener.java|1|142c16db2ea|2bc6|1a8429a|4821371fbf7d48f5afeec3949e2f8452|0
+18:BankMessageListener.java|1|142c16db13d|3660|8869e83c|aef2ee1746404c04946f7251407a4699|0

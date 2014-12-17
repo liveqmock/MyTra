@@ -1,0 +1,25 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\cmupay\controller\service\system
+2
+15
+1d:IUpayCsysImsiLdCdService.java|1|142c16da7bf|2a1|d0cae758|6580ab4708cb11e38250001f296e5d6e|0
+4:impl|2|0|0|0|5493e317309e11e3816b001f296e5d6e|0
+1b:IUpayCsysTxnLogService.java|1|142d50faab1|54f|325cd5c6|41d3a70bc44f4caab14863ebb9910305|0
+1e:IUpayCsysRouteInfoService.java|1|142c16da7c9|295|12fe084|64a0aa2708cb11e38250001f296e5d6e|0
+20:IUpayCsysTmallTxnLogService.java|1|142c16da7e7|340|64de24c1|a642d418c8d1482e8c02fe91b3677b1b|0
+1e:IUpayCsysBatCutCtlService.java|1|142c16da7a0|165|ec4e7a54|64f0aa8708cb11e38250001f296e5d6e|0
+1f:IUpayCsysSeqMapInfoService.java|1|142c16da7cc|1b7|35b991ec|6490aa0f08cb11e38250001f296e5d6e|0
+1e:IUpayCsysTransCodeService.java|1|142c16da7cf|29b|8470e37a|6550ab1708cb11e38250001f296e5d6e|0
+1f:IUpayCsysBillPayHisService.java|1|142c16da7a9|528|7cafbc6b|64c0aa3f08cb11e38250001f296e5d6e|0
+1c:IUpayCsysOrgCodeService.java|1|142c16da7c1|24a|bd74c864|6530aae708cb11e38250001f296e5d6e|0
+1d:IUpayCsysDictCodeService.java|1|142c16da7b0|299|d0afe044|6480a9f708cb11e38250001f296e5d6e|0
+1d:IUpayCsysDictInfoService.java|1|142c16da7b3|282|a43ddb0f|6540aaff08cb11e38250001f296e5d6e|0
+1e:IUpayCsysTxnLogTmpService.java|1|142c16da7dd|387|485d399c|02537e6130a211e38f80001f296e5d6e|0
+1d:IUpayCsysPayLimitService.java|1|142c16da7c6|4f0|fdd2b6b3|6500aa9f08cb11e38250001f296e5d6e|0
+1c:IUpayCsysBillPayService.java|1|142c16da7ab|666|d1f48ec|64e0aa6f08cb11e38250001f296e5d6e|0
+1e:IUpayCsysAllTxnLogService.java|1|142c16da79d|3a5|9f2f3a9b|6510aab708cb11e38250001f296e5d6e|0
+21:IUpayCsysOrgTransCodeService.java|1|142c16da7c3|2b8|b7a5ed7f|6570ab2f08cb11e38250001f296e5d6e|0
+1e:IUpayCsysTxnLogHisService.java|1|142c16da7d2|361|94921bfa|65a0ab7708cb11e38250001f296e5d6e|0
+21:IUpayCsysTmallBillPayService.java|1|142c16da7e4|38a|d9023a32|648a40e840224312b622bf098827833a|0
+24:IUpayCsysOrgMapTransCodeService.java|1|142c16da7e1|228|9ad9c144|1e34479130a311e38f80001f296e5d6e|0
+1d:IUpayCsysBindInfoService.java|1|142c16da7ad|be3|7a84a4a|c8c72c76561649ab85a32d8cbdaa6a0e|0

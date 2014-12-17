@@ -1,0 +1,19 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayImitator\WebContent\file\template\request\bank
+2
+f
+4:5.缴费|2|0|0|0|6d27e56d08ba11e382bc001f296e5d6e|0
+e:14.Tmall-query|2|0|0|0|8223521ef8594d9a95153cdc756529c1|0
+a:8.发票打印结果通知|2|0|0|0|6c77e52508ba11e382bc001f296e5d6e|0
+9:10.用户身份验证|2|0|0|0|6c07e4f508ba11e382bc001f296e5d6e|0
+5:1.预签约|2|0|0|0|6c37e50d08ba11e382bc001f296e5d6e|0
+7:11.冲正请求|2|0|0|0|6bc7e4dd08ba11e382bc001f296e5d6e|0
+a:7.发票打印信息查询|2|0|0|0|6b57e4ad08ba11e382bc001f296e5d6e|0
+a:9.用户签约关系查询|2|0|0|0|6d97e59d08ba11e382bc001f296e5d6e|0
+4:3.解约|2|0|0|0|6d67e58508ba11e382bc001f296e5d6e|0
+8:2.签约结果通知|2|0|0|0|6ce7e55508ba11e382bc001f296e5d6e|0
+a:4.用户应缴费用查询|2|0|0|0|6cb7e53d08ba11e382bc001f296e5d6e|0
+9:15.支付结果通知|2|0|0|0|86c76e8617fd4f998152d7a44eea598c|0
+4:6.退费|2|0|0|0|6b97e4c508ba11e382bc001f296e5d6e|0
+9:12.交易状态查询|2|0|0|0|6b17e49508ba11e382bc001f296e5d6e|0
+c:13.Tmall-pay|2|0|0|0|2bd874c2109c43ce859d98b384894742|0

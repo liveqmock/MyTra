@@ -1,0 +1,22 @@
+ClearCase CopyAreaDB|4
+cvob_upay\c_upay_code\CMUPayCoresys\src\main\java\com\huateng\cmupay\jms\business\crm
+2
+12
+14:CrmPayNoticeBus.java|1|142c16daf51|54d|ad0bddb2|7020b7bf08cb11e38250001f296e5d6e|0
+11:CrmRevokeBus.java|1|142c16dafab|b8a|bf2235b8|097384d930a211e38f80001f296e5d6e|0
+15:CrmMainUnbindBus.java|1|142c16daf4c|5cd|974c00e6|7030b7d708cb11e38250001f296e5d6e|0
+1a:CrmCompareUserInfoBus.java|1|142c16daf3a|6ad|4ce74e2f|0913849130a211e38f80001f296e5d6e|0
+14:CrmSubUnbindBus.java|1|142c16dafbe|9bc|48d778fc|0883841930a211e38f80001f296e5d6e|0
+16:CrmQueryResultBus.java|1|142c16daf9e|11ef|19722b9e|093384a930a211e38f80001f296e5d6e|0
+19:CrmConsumeReverseBus.java|1|142c16daf3c|105f|52275453|7080b84f08cb11e38250001f296e5d6e|0
+15:CrmTransQueryBus.java|1|142c16dafc5|eaa|b62a2c50|08f3847930a211e38f80001f296e5d6e|0
+1a:CrmQueryMobileInfoBus.java|1|142c16daf62|942|280f52cc|098384f130a211e38f80001f296e5d6e|0
+12:CrmPreSignBus.java|1|142c16daf54|17f8|a8d6d58d|6e821ca6b30341918a315a3e2805dc3b|0
+17:CrmSubBindCheckBus.java|1|142c16dafb3|c1a|15842546|6e97227d3c2044f097b927361b5aa371|0
+1d:CrmQueryMobileReverseBus.java|1|142c16daf69|cea|874c7f05|08b3844930a211e38f80001f296e5d6e|0
+15:CrmSubConnectBus.java|1|142c16dafba|bdd|7b5810e2|cbf34b3611384153836375eda1ce2e4e|0
+18:CrmPrintInvoinceBus.java|1|142c16daf56|71f|417b81a3|09b3852130a211e38f80001f296e5d6e|0
+15:CrmBindReulstBus.java|1|142c16daf23|1070|8e19c1a1|b3e84f84994a4c1a8ae039e4df6a3127|0
+11:CrmChargeBus.java|1|142c16daf36|43d6|5f72fdb6|f244a716dbe14b5ea95461d77c5dbd9e|0
+1c:CrmInvoicePrintQueryBus.java|1|142c16daf45|be4|6d3a125d|7d626c974fa04643a79925558499fa08|0
+12:CrmReverseBus.java|1|142c16dafa4|a2a|ceb69de8|0893843130a211e38f80001f296e5d6e|0
